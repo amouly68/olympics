@@ -1,0 +1,5 @@
+# .gitignore
+
+# Ignore the virtual environment directory
+# pip install pandas
+venv/
