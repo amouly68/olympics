@@ -2,6 +2,11 @@ https://nycdatascience.com/blog/student-works/olympics-medals-prediction/
 https://github.com/globalsmile/Olympics-Games-Analysis?tab=readme-ov-file
 https://www.topendsports.com/events/summer/medal-tally/rankings.htm
 https://github.com/rahkum96/Olympics-Dataset-by-sql
+https://medium.com/@ankurkhatri02/olympic-history-data-analysis-in-sql-fb7c138f1fcf
+https://github.com/anshidthariyakkodan/Olympic_Data_Sql
+https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg
+https://powerdrill.ai/blog/data-fact-of-the-olympic-games-in-the-history
+
 
 
 https://worldpopulationreview.com/country-rankings/olympic-medals-by-country
