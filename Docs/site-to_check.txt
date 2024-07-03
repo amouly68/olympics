@@ -6,8 +6,11 @@ https://medium.com/@ankurkhatri02/olympic-history-data-analysis-in-sql-fb7c138f1
 https://github.com/anshidthariyakkodan/Olympic_Data_Sql
 https://www.kaggle.com/datasets/josephcheng123456/olympic-historical-dataset-from-olympediaorg
 https://powerdrill.ai/blog/data-fact-of-the-olympic-games-in-the-history
+https://github.com/josephwccheng/olympedia_web_scraping
+
 
 
 
 https://worldpopulationreview.com/country-rankings/olympic-medals-by-country
 https://www.olympiandatabase.com
+http://www.olympedia.org/

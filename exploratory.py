@@ -30,4 +30,3 @@ ath_tokyo.head()
 medals.head()
 athletes.head()
 regions.head()
-
