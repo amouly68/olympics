@@ -160,12 +160,37 @@ with open('problematic_rows3.txt', 'a') as f:
     problematic_rows.to_string(f, index=False)
 
 
-# Supprimer les lignes avec des dates mal formatées
+# Remplacer name par first_name and last_name
+
+def split_name(name):
+    if pd.isnull(name):
+        return None, None
+    parts = name.split()
+    if len(parts) > 1:
+        last_name = parts[-1]
+        first_name = ' '.join(parts[:-1])
+    else:
+        last_name = parts[0]
+        first_name = None
+    return first_name, last_name
+
+new_df[['first_name', 'last_name']] = new_df['name'].apply(lambda x: pd.Series(split_name(x)))
+
+# Identifier les lignes avec plus de deux mots dans le nom
+other_than_two_words = new_df[new_df['name'].apply(lambda x: len(x.split()) != 2)]
+other_than_two_words = other_than_two_words[['name', 'first_name', 'last_name']]
+print(other_than_two_words)
+with open('problematic_names.txt', 'a') as f:
+    other_than_two_words.to_string(f, index=False)
 
 
 # Supprimer la colonne 'born'
+new_df = new_df.drop(columns=['first_name', 'last_name'])
+
+print(new_df['sex'].isna().sum())
+print(new_df['sex'].value_counts())
 
 new_df.head(100)
-
-
+new_df.to_csv('Olympic_Athlete_Bio_altered.csv', index=False)
+new_df.info()
 df.head()
