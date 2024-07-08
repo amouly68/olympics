@@ -194,3 +194,6 @@ new_df.head(100)
 new_df.to_csv('Olympic_Athlete_Bio_altered.csv', index=False)
 new_df.info()
 df.head()
+
+test = df[df['name'] ==  'Teddy Riner']
+print(test)
