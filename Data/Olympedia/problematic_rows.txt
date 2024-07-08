@@ -1,0 +1,115 @@
+                                                          born  DoB_year  DoB_month  DoB_day
+                                          in Ipoh, Perak (MAS)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                          in Rabenstein, Zwiesel, Bayern (GER)      <NA>       <NA>     <NA>
+                                    in Tiruvalla, Kerala (IND)      <NA>       <NA>     <NA>
+                                                    in ? (GRN)      <NA>       <NA>     <NA>
+                                    in Palmerston, Otago (NZL)      <NA>       <NA>     <NA>
+                                        in Karaj, Alborz (IRI)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                     in Ferrara, Ferrara (ITA)      <NA>       <NA>     <NA>
+                               in Geili, Shamal Kurdufan (SUD)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                            in Seremban, Negeri Sembilan (MAS)      <NA>       <NA>     <NA>
+                                       in Milano, Milano (ITA)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                         in Paris, Paris (FRA)      <NA>       <NA>     <NA>
+                                                    in ? (ZAM)      <NA>       <NA>     <NA>
+                                       in Herstal, Liège (BEL)      <NA>       <NA>     <NA>
+                                         in Paris, Paris (FRA)      <NA>       <NA>     <NA>
+                                     in Innsbruck, Tirol (AUT)      <NA>       <NA>     <NA>
+                                       in Taiping, Perak (MAS)      <NA>       <NA>     <NA>
+ in Monte Redondo, Lorvão, Penacova, Distrito de Coimbra (POR)      <NA>       <NA>     <NA>
+                                           in Lima, Lima (PER)      <NA>       <NA>     <NA>
+                                    in Glasgow, Scotland (GBR)      <NA>       <NA>     <NA>
+                                    in Bordeaux, Gironde (FRA)      <NA>       <NA>     <NA>
+                             in Uchila, Udupi, Karnataka (IND)      <NA>       <NA>     <NA>
+                                                    in ? (GRN)      <NA>       <NA>     <NA>
+                                       in Dublin, Dublin (IRL)      <NA>       <NA>     <NA>
+                                in Cluny, Saône-et-Loire (FRA)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                             in München (Munich), Bayern (GER)      <NA>       <NA>     <NA>
+                                     in Des Moines, Iowa (USA)      <NA>       <NA>     <NA>
+                                       in Napoli, Napoli (ITA)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                   in Cheolweon, Gangwon (KOR)      <NA>       <NA>     <NA>
+                                                    in ? (BAR)      <NA>       <NA>     <NA>
+                                      in Yerres, Essonne (FRA)      <NA>       <NA>     <NA>
+                                                    in ? (ZAM)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                               in Pyeongyang, Pyeongyang (PRK)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                    in Tolosa, Guipúzcoa (ESP)      <NA>       <NA>     <NA>
+                                    in Rosario, Santa Fe (ARG)      <NA>       <NA>     <NA>
+                                                    in ? (IRL)      <NA>       <NA>     <NA>
+                                       in Milano, Milano (ITA)      <NA>       <NA>     <NA>
+                                       in Napoli, Napoli (ITA)      <NA>       <NA>     <NA>
+                                     in Brescia, Brescia (ITA)      <NA>       <NA>     <NA>
+                                     in Firenze, Firenze (ITA)      <NA>       <NA>     <NA>
+                              in Genève (Geneva), Genève (SUI)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                 in Thunder Bay, Ontario (CAN)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                             in Kalavryta, Dutiki Ellada (GRE)      <NA>       <NA>     <NA>
+                                     in Akharnes, Attiki (GRE)      <NA>       <NA>     <NA>
+                             in Evrytania, Sterea Ellada (GRE)      <NA>       <NA>     <NA>
+                                    in Guayaquil, Guayas (ECU)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                    in Guayaquil, Guayas (ECU)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                       in Verona, Verona (ITA)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                  in La Carlota, Córdoba (ARG)      <NA>       <NA>     <NA>
+                                             in Scotland (GBR)      <NA>       <NA>     <NA>
+                                                    in ? (ROU)      <NA>       <NA>     <NA>
+                                                    in ? (ZAM)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                              in Jalpaiguri, West Bengal (IND)      <NA>       <NA>     <NA>
+                                                    in ? (SUD)      <NA>       <NA>     <NA>
+                                                    in ? (MAD)      <NA>       <NA>     <NA>
+                                  in Canterbury, England (GBR)      <NA>       <NA>     <NA>
+                                                    in ? (LBN)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                           in Lviv, Lviv (UKR)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                             in Scotland (GBR)      <NA>       <NA>     <NA>
+                               in Montevideo, Montevideo (URU)      <NA>       <NA>     <NA>
+                                             in Scotland (GBR)      <NA>       <NA>     <NA>
+                     in Santo Domingo, Distrito Nacional (DOM)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                              in Athina (Athens), Attiki (GRE)      <NA>       <NA>     <NA>
+                                      in Spetses, Attiki (GRE)      <NA>       <NA>     <NA>
+                                 in Villabona, Guipúzcoa (ESP)      <NA>       <NA>     <NA>
+     in Ciudad de México (Mexico City), Ciudad de México (MEX)      <NA>       <NA>     <NA>
+                                       in Sapi-an, Capiz (PHI)      <NA>       <NA>     <NA>
+                                     in Hyderabad, Sindh (PAK)      <NA>       <NA>     <NA>
+                                 in Randers, Midtjylland (DEN)      <NA>       <NA>     <NA>
+                                         in Asyut, Asyut (EGY)      <NA>       <NA>     <NA>
+                                                    in ? (BOT)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                                             in ?, Kriti (GRE)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                      in Zittau, Sachsen (GER)      <NA>       <NA>     <NA>
+                       in Bur Said (Port Said), Bur Said (EGY)      <NA>       <NA>     <NA>
+                                       in Beirut, Beirut (LBN)      <NA>       <NA>     <NA>
+                                                    in ? (MAS)      <NA>       <NA>     <NA>
+                                 in Senahú, Alta Verapaz (GUA)      <NA>       <NA>     <NA>
+                                                    in ? (ESP)      <NA>       <NA>     <NA>
+                                   in Kathmandu, Bagmati (NEP)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                 in Barcelona, Barcelona (ESP)      <NA>       <NA>     <NA>
+                                                    in ? (ZAM)      <NA>       <NA>     <NA>
+                                 in Barcelona, Barcelona (ESP)      <NA>       <NA>     <NA>
+                                           in Arad, Arad (ROU)      <NA>       <NA>     <NA>
+in ?, Chaharmahal-o-Bakhtiyari, Chaharmahal-o-Bakhtiyari (IRI)      <NA>       <NA>     <NA>
+          in Al-Iskanderiya (Alexandria), Al-Iskanderiya (EGY)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                           in Oran, Oran (ALG)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                           in ?, England (GBR)      <NA>       <NA>     <NA>
+                               in Schiedam, Zuid-Holland (NED)      <NA>       <NA>     <NA>
+                         in Al-Qahira (Cairo), Al-Qahira (EGY)      <NA>       <NA>     <NA>
+                                      in Sinaia, Prahova (ROU)      <NA>       <NA>     <NA>
+                                                    in ? (MAR)      <NA>       <NA>     <NA>

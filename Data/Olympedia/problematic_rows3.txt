@@ -1,0 +1,96 @@
+          born  DoB_year  DoB_month  DoB_day
+     July 1882      1882          7     <NA>
+   August 1886      1886          8     <NA>
+    April 1881      1881          4     <NA>
+    March 1842      1842          3     <NA>
+September 1881      1881          9     <NA>
+ December 1967      1967         12     <NA>
+ November 1880      1880         11     <NA>
+     June 1918      1918          6     <NA>
+ November 1903      1903         11     <NA>
+ November 1890      1890         11     <NA>
+ November 1936      1936         11     <NA>
+  January 1884      1884          1     <NA>
+ February 1906      1906          2     <NA>
+September 1912      1912          9     <NA>
+     June 1962      1962          6     <NA>
+ November 1922      1922         11     <NA>
+  October 1869      1869         10     <NA>
+September 1929      1929          9     <NA>
+      May 1909      1909          5     <NA>
+     June 1886      1886          6     <NA>
+    April 1925      1925          4     <NA>
+ February 1884      1884          2     <NA>
+    March 1878      1878          3     <NA>
+  January 1909      1909          1     <NA>
+ November 1955      1955         11     <NA>
+  January 1913      1913          1     <NA>
+    April 1883      1883          4     <NA>
+September 1880      1880          9     <NA>
+      May 1861      1861          5     <NA>
+  January 1885      1885          1     <NA>
+     June 1929      1929          6     <NA>
+     June 1908      1908          6     <NA>
+    March 1894      1894          3     <NA>
+ December 1884      1884         12     <NA>
+  January 1886      1886          1     <NA>
+ November 1906      1906         11     <NA>
+  January 1897      1897          1     <NA>
+  January 1923      1923          1     <NA>
+    March 1868      1868          3     <NA>
+  October 1889      1889         10     <NA>
+    April 1872      1872          4     <NA>
+    April 1899      1899          4     <NA>
+     June 1934      1934          6     <NA>
+     July 1864      1864          7     <NA>
+     July 1905      1905          7     <NA>
+    March 1899      1899          3     <NA>
+     July 1903      1903          7     <NA>
+   August 1895      1895          8     <NA>
+ November 1882      1882         11     <NA>
+ November 1881      1881         11     <NA>
+ November 1966      1966         11     <NA>
+    March 1920      1920          3     <NA>
+ November 1895      1895         11     <NA>
+    March 1905      1905          3     <NA>
+      May 1903      1903          5     <NA>
+    March 1918      1918          3     <NA>
+     July 1912      1912          7     <NA>
+     June 1880      1880          6     <NA>
+ November 1924      1924         11     <NA>
+     June 1885      1885          6     <NA>
+ November 1882      1882         11     <NA>
+  January 1881      1881          1     <NA>
+   August 1882      1882          8     <NA>
+ December 1881      1881         12     <NA>
+ February 1885      1885          2     <NA>
+  October 1932      1932         10     <NA>
+    March 1918      1918          3     <NA>
+    March 1905      1905          3     <NA>
+ February 1885      1885          2     <NA>
+    April 1897      1897          4     <NA>
+ December 1878      1878         12     <NA>
+     July 1865      1865          7     <NA>
+    April 1929      1929          4     <NA>
+   August 1890      1890          8     <NA>
+ November 1936      1936         11     <NA>
+    April 1914      1914          4     <NA>
+   August 1904      1904          8     <NA>
+      May 1879      1879          5     <NA>
+  October 1899      1899         10     <NA>
+  January 1926      1926          1     <NA>
+      May 1863      1863          5     <NA>
+September 1982      1982          9     <NA>
+      May 1902      1902          5     <NA>
+September 1949      1949          9     <NA>
+   August 1872      1872          8     <NA>
+ February 1947      1947          2     <NA>
+     July 1874      1874          7     <NA>
+ February 1921      1921          2     <NA>
+    March 1870      1870          3     <NA>
+  October 1881      1881         10     <NA>
+     July 1898      1898          7     <NA>
+  January 1927      1927          1     <NA>
+September 1898      1898          9     <NA>
+     June 1914      1914          6     <NA>
+ November 1875      1875         11     <NA>
